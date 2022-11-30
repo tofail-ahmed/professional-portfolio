@@ -58,14 +58,13 @@ h1{
       border-left: greenyellow 10px solid;
 }
 footer{
-      /* text-align: center;
+      text-align: center;
+      
+      
+}
+span{
+      color: rgb(93, 238, 26);
       text-decoration: none;
-       */
-       text-decoration: none;
-       background-color: orange;
-       padding: 40% 405;
-       border-radius: 5px;
-       background-image: linear-gradient(orange, tomato);
-       color: white;
-        font-weight: 700;
+      font-size: 15px;
+      font-weight: 600;
 }
