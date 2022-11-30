@@ -59,12 +59,16 @@ h1{
 }
 footer{
       text-align: center;
-      
-      
+      /* color: darkred;
+      font-size: medium;
+      text-decoration: none; */
 }
-span{
-      color: rgb(93, 238, 26);
+#footer{
+      color: rgb(180, 253, 10);
       text-decoration: none;
-      font-size: 15px;
+      font-size: medium;
       font-weight: 600;
+      background-image: linear-gradient(orange,tomato);
+      border-radius: 10px;
 }
+
