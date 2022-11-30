@@ -37,3 +37,35 @@ h1{
       background-repeat: no-repeat;  
       background-position: right; 
 }
+.experience-item{
+      box-shadow: 10px 10px 35px gray;
+      width: 40%;
+      margin-left: 5%;
+      margin-right: 5%;
+      padding: 20px;
+      
+      border-radius: 15px;
+}
+.experience-area{
+      background-image: url(images/exp-bg.png);
+      background-repeat: no-repeat;  
+      background-position: left;
+}
+#baby{
+      border-left: 10px blue solid;
+}
+#full{
+      border-left: greenyellow 10px solid;
+}
+footer{
+      /* text-align: center;
+      text-decoration: none;
+       */
+       text-decoration: none;
+       background-color: orange;
+       padding: 40% 405;
+       border-radius: 5px;
+       background-image: linear-gradient(orange, tomato);
+       color: white;
+        font-weight: 700;
+}
